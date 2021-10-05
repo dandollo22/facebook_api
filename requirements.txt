@@ -1,0 +1,11 @@
+beautifulsoup4==4.10.0
+fastapi==0.68.1
+PyYAML==5.4.1
+selenium==3.141.0
+soupsieve==2.2.1
+SQLAlchemy==1.4.25
+urllib3==1.26.7
+uvicorn==0.15.0
+
+starlette~=0.14.2
+pydantic~=1.8.2
